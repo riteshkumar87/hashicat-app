@@ -13,8 +13,8 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Hello Hello!</h2></center>
-  Welcome to ${PREFIX}'s app. 
-  <center><h2>This is cool....</h3></center>
+  Welcome to Ritesh's app. 
+  <center><h3>This is cool....</h3></center>
   <!-- END -->
 
   </div>
